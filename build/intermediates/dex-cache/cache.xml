@@ -1,0 +1,1697 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.0_5fc68b10e4d3c1b8ff30dcd1cc703fa4a3fad7f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.0_460abb00a0d3d31263095f2244ab4af332458f7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_ec356c42d527887f3089c5667364eee41a3a1c58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.0_d64d12718ca516e5987ed3f804e2d42808f13805\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.0_0495cc69a343ce303152c52811cf4f6789a34815\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_cb064e558723439488c8518a84c815ff1a3529a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.0_034f84383e2f393b7bcf6a89d89a8df73cdf0224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.0_1480fe528f2f3aff600b65a98f099eb85aa05547\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.0_78d72c628ff4d11a2ec1d935596bac81e5ba1ae3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.0_987b2d65fe711fd7e5c739407e9bb7bc529a51bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.0.0_2cc7f5be7f6f2bfda60ad4fda96bd6c1f96c986d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_3decbcff88cb4a5527ce49d1b33be1c5f6918835\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.0_cd65837b3ef1cded39e5ca94a51ae38714dca448\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.0_e1df9c634a3d344f74e98d280db16e6ea939ffc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_d0e18ebbc6688135460de69d50a76f6ab6aa4fe4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.0_d6e29f45de2c5ad9f8806fa619b6854f76d73ebe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.0_cfcd995fa0fe61103063520cd5744e6153f2e162\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.0_bca3d5d3a5a9adcad2fb58b1932d7aad6a37acbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.0_3016886091fbd5cef122f1c989cd1a103197157f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_c69ae426c00d3bd2629f2f9d4c29161dc72e4e2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.0_0e64d5efc862ce5eeb9706e2184ca7edde4debc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_773dff56788ed461b804c4838863c35afe379d2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_50c6710522c288fe264276945c0f002dd4ecb05f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.0_a2cd763c6cfe4aab666cff41fb9b2e4d58dd481b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_872b5c468ed7e257f51cac9930fdc2ecfc3ef6b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.0_6a94f7ee132453190b712d2797259f5a03f70b1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.0_e1e3d725523fbc6ef2ae94f3fbc7f42e4a9261c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.0_82f433cf6276cc6953d9b0d813522f2271907a63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.0_879fb3138c16a96739198e89c5d48aa565add0c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_ce25f0661ae1c4eec148ef1b9ae0332c5ef5f181\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_a3072b1e4878831713c678473b007f2940ce9b9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.0_4a0bf34335796f697ac063716982a9bbe31cda5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_ce95aa935985cc2cbeee006bd0d73c4e6f1ca51b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_ed96cd3f47c687f6b0f06b66252247c5b0aa3e48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_dc3217fa7cb38a873041f3e7b47d06e4b3c8cd12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ad382a986249f5154ded8f8c595c0af3923a6e6">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5591c9bea521d740526db0468c16267e3b4e35d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.0_1d5ca4786a9140ea2282f00a13c9e04f06045064\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.0_e28903695c9d144245aa1b93d8bf480dcc79782d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.0_29a563f7fc0f6c09acb950747795d936f6fcabd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.0_8c4ff7dcfdf2aaab98f053339670594ecddbe958\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_5fbeab7a4c6a3316189c6ea92edf5ea91cd2ed4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.0_82ee6ddc73017a69e765f651a4592015d676319d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_225db0d4fba5b80524dc5c7f463d3312dadccd4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_1c2facd7ac3c3ce0f15a4212ff0a22f83ce7a11a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.0_64bfc55ef2aa37a139adc44f9129ea07ecb59dc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_0480d9cf92b2a7ca21230c2b15ef3aa605874736\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.0_f6f2eb979de3ffdbc3af20c6419806602ffe6c65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.0_9b21d876948c83c79d97db07bb760b3054949d7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_2caba7c02c41ecf6260a5474b4ad09e1fcdee8ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.0_fd92f9fa8dd0398f11b3bb26972ff2b6154d80f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_aa1297a6925e86fee543b3fd5358f735bd8137ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.0_1f42776fcc503f8bc2cc56fd793b5c82ff0b51b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f349ea2ba0d61283a68c66c8f8eea437a8cd28c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_f6060f20f4bdc22eb684b010ec2c81b1cfa69205\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_47d93472f6d36b14bbc10aab4ca22596b486372a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.0_5e90e17188cacd9c4411e9b446a6c24104a79788\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_a58ed5bf120a994d9c1367d95da6db0e3b3f3711\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.0_79226436efb4017bde4b9221cf692db2e687ac98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_21aa75a45cc9ce65c58d9d9ec56cd17c954ec8cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_6668f0d376f89e231bb869334a0086b9346d5cdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_286e8b3f73aa20cfdf55ef592e89672d05a904ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.0_b17689e75fd084cb268c1a677fa3e23054c94778\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.0_29df2460d45e8fdde2d98718663783fbfe845403\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.0_f6243371d9c7b7e8236e719bbdce470e824789c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_ce253801b4b29603dd34d0013c63a0ce9048075f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.0_afcc1871d48098941cece34a6063e9c30cdb98df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_ca51f86087961919e3a04d6c5a3a7312a80739d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.0_50499848a0e3213c0b3cfb7f4ea95003b90ffbb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_cc2a5b7b538689ca6282bd56cf8e7ac4d1585e70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_000a41d0cab5bebd50df871c1a8b6f334ea5625f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.0_bde867403820fc7bd6b0764c13babf327178369a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_ce03a294c06f38050151f3e83cf65356319574b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.0_7bb9cb44ea26a8e0c2253b9e66ee531ccb75d0bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_41f3df768b9fc362fa99ada800ca532f24a0fbae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.0_e78cf964e4f1a9bfc231fb77e988cdc998f7c077\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_42a82280a5a4eb6685a4eb662acdd66a41f60516\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.0_c99b167a0bb174a457ee3745e23a1f78f61c8219\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_041942b758c137ae48a744e7c9c6d678b1254153\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.0_4c9066e2f94cbf543235747c808efad7c7fe5ade\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0c8ee952a941219ce8d1733e63a926b02ad54f0">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e15417dbe51f47ccfa6317720e8e1060243e8a4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.0_e60a899239c481b2e52f5a3fd545c73a42f41d08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_cbcac51a4fc5a5434c46de5d0ddc7ef91d5a38c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.0_22aac85721b0b771d671e9db5c3f02a453ab9476\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.0_2222267eb0bcb969086a1a1110d29ad0a9bc9b9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.0_dc34f8fb28ba2b05b4c0164f62ceae253b83c725\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_d64c512977d44cf2a8d610ba4b3ae21399825783\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_5f9f370bf48271adf16d5ea97a18d37d8ff08808\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.0_34eae57e1cccb529e37fa72e7de4e15b78b0f859\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.0_4135a2496992f11808cf9ff65bb106405cb925cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_d5f57ab940a5f695c807818fdb9bf15be0a41080\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.0_34babdb85f42c9e22977690666ffda624f561f54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.0_51ae65b10c8202a61484c533795451861bd38759\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.0_3aeb8346d6514c9424f954fcb36724200c63639a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_a4b3fcf5c4f4220002f25480dcfae2583f731288\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.0_ea56e42d4ffc10f799d70708a4e80ddbbd9bdccb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_b6de0240d3ba2edcd125b92c85a67481880ea49d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.0_172db5a0669a7e93c7be09200b07d15b43e80a45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_2fa2a2755189611fc16f484e86fd6f289efebc35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.0_89ac206de680886073e5d483c2bef0f849f4ec1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_2f0fabdf0c8448e98ffd462597bb8a9360a62f07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.0_4e2f22e1605c9917d9cbdb2c071e04f1e352abe3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.0_6c9cfd5de4ef69c482406111f9aa8aa06ddef650\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_4d97f10a4a0545018674b9529f9c685402a98002\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_2a265a4c1b681e4bb6a41aad75353f71073a178a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2cdaa647a514460eb9569552fa4b5b740b204f25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_bb52fb04c442b8362e78a8486d0d8750bc2dc749\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.0_92fc86d0597ddbce543f84df118b1c869a8a57a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.0_75e3a4d902e0116f15e2d6f366121d97447d06c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c531b4be1fedf26ce5783cbce56d789f58776093\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.0_54cbc6db199ca871c5bcd12907b893a943a52822\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38664e5fbad66cf0f9961dfa03ca9ced313b3181">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_72507f1f4bd39fe448676b1c31f12b6744962c3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.0_bdeaf0b37cdf1d56b2a231a437149244996a2432\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.0_43e36ca5f5359b7be4068d45bf914f834399ed79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_7fcc2e84d3006e215f95cffb723df32db1fbe07f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.0_034d01dadf8afa92fb07be6aae6c8f02a458bd81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b58ea2bdf3e725595a662080abca6b06bcab7d34">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c0c5b31776c8831e1cf2768e7fc0e0cb0dacd4d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_8e54168d088367db67e86e5840fc86d1777be958\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.0_ec5072b02021bfb948ad49ce34061c81cd8f55e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.0_5806431243febe44f3732669a4df3c214566612e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.0_29e930d263e047d812f1d4e05ddc6de888b4baf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_a13e2f0734a27d3f3047bc85dd5e7cf30ff590ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_757bf165fd3e358de2c31dd707ec29febd1ad692\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.0_f81f82da5d93fcc9620df0f89da70b1ef3f5249b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.0_6762c9b3942038aaeed95055fc1fb1e4b56c2096\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.0_9c111516996a5253427bed28e0713ca05c0d9a21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_47bd8e60f0886369da3713863951b4e1bc3d2725\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.0_fa2c2c52a0d830af4ba9fae14272d51e206dd3c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_3434daf401ce28960a2e5f6e1c16c56141171a6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.0_666e1519b7e0f70721d0a08c5977514f773bf765\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.0_e013663b6fdac2b81f11c59115451f4f6f708907\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.0_31fed1ca9872065b7a21a75bad270ba0eb780530\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.0_356645dca11e1744910fa8b0081861a7f9216661\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.0_c1d49d982b95bfc1aa3fe9874760514e78cea0e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_bbb1ad56261238fca60d1acabe8017b93f1a94fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.0_0758eb735b2be4122899af13aef4532e4a16cc0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.0_7aa573b44ea21951ed830a8b8c5321b1467fb729\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_aaf17ff2e296ae6c1476fe3429c33b9dfb0a8a0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.0_2a777ca2a89bdd1f74291b99f996c831d25434d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab1cff91e96b5a87ef94d57249dd2c7629bd0cca">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9b551e115bb85a4356a08e8672eeac4eaadf6713\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.0_0adcbf5918505f2c9d2b532c7c538ab8e2395667\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.0_e04ff7cc46502724d8ea03cd63b752d394ef3830\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.0.0_43ae1c9b3fb45e51e14185af076136363f2d2005\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.0.0_0c065c8df0b6446d22ef725f61eb9cbdcf3851c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_32719a672d3fd0e6f75d5335cc4c00e1993582dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.0_8a86b20a1ac710ac7362a594a228a28afe70208f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.0_591c4410ef04926c6329629c5b8ddb04a1cdf893\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.0_3313416721564321adbab97e25e3175b0c460ff9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_9ef5d193042b8341bc771311301529fce7e14740\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.0_6dbd24f8153d7000b22b1d2f5042176599c75d2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_e9685870e2de042af9696d97d90a2ebab2c76b49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.0_38fb13991fcfd7e99614bbb6ffba92d5dde0116d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.0_89e588f71d358f3c0f397c98bc33e14b02a0a663\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_44aec03d396db08de1b113d5dc137cbb621ed40c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.0_c4a2b80da74bd44cbd03ad462efc80300c9f8c3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_29322b4f402cb3b3487ff9afc93d66793e137b11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_4fc681b1dc27d08e5ca918061fae25730bfd7bdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.0_5abd37e017c8da50ee3b4de3ec342ec7662d4b91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_29856868191d407e62269960d01531a50748aa42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc6ffbb04c8686a8f9ce67b4a17fbead2ea2755d">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b479f2b07d211aa061d3ed56c1171f492038f1f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_4027547985257c14b209fd9c279243bc679ee549\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.0_1c959e57ed2810976bb26499cba729b04b97b997\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.0_6b0ccae85b01c2b1b89a3a71018fbc91b4695a07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.0_1153e89fbcfbf01389bcd581ee2f8f747b0d8815\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_ab8e6cfe802cd6772d29b1fa37d0a2e9fa062dc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e38151be48564343955e11eecd3c05600b6b1873\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.0.0_18415ae3843f90a91337e993a1b556652435a2e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_bd6706fff7df04778b62557114f086f4ef6cc5c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_289ef1510b8b22b1cf7fcbad8ccb38d81fa8ee40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.0_b534acbd80d26da1c93c32f52863de240bad4d49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.0_604d01c646f72f27165eedd9e4a3ac3a3fdb2713\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.0.0_30821e9ef5b1559d160ea45e5cd84f3f8721f504\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.0.0_9406e5f2e4a21dffd2d1bb0acab2c962ae34b9d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.0_d557861f46b5bfe25ec652284c9ddd1e465d5d2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f233d9edad4b485193988c7011e2dd92a99e50fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.0_73a690e261b1947935404863edaaaaf88508912c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_a49e5076e3d62cc1288cd4b1f6d0f65b420050cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_47123db9a9172ae7852771e5972aba378b3d4884\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.0_287d753644d630f451a4cda6e211088eab3dcc22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.0_ca88d88622bdb575e7e6899783ceaec5219d9156\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_e28aeb491c217b51bf07e7ffdfb73f249978e51a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.0_8a1b4def49faa3e45866d27e48b11a9457293721\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_116d571463f1239a34cb16671c9ba487b64097c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.0_3ec4eba8568ec35b6460ff502aae2fcc09783c87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.0_122db8a2179d99556edf14284ec656e2b29f3642\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="C:\vishnu\Android\workspace\AquaDrops_1\sqlitedemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.0_8ae7d63c6943aa1d13431a0d05396d9aa8cf1a82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_55eea45592b284d3f4482ef14834f4a1ce7d9d95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\vishnu\Android\git workspace\trackclient\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_02d2701019d635af498fc78e2ff7b932c1b072fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="C:\vishnu\Android\git workspace\GcmAndLocalDB-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.0_1edd7fa1077f9de51d52525b123c6059f27da495\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "728802042803",
+    "firebase_url": "https://triton-android1.firebaseio.com",
+    "project_id": "triton-android1",
+    "storage_bucket": "triton-android1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728802042803:android:4117497446d31e5b",
+        "android_client_info": {
+          "package_name": "com.triton.fcmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728802042803-vegsf1qqc0pe5fjt7b990vhbj20arg2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOOjafmuNwmSigvtmSfdyXkhNyCmDBhAs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728802042803:android:5920de3503a2d18c",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728802042803-vegsf1qqc0pe5fjt7b990vhbj20arg2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOOjafmuNwmSigvtmSfdyXkhNyCmDBhAs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728802042803:android:3140d0e74ace9501",
+        "android_client_info": {
+          "package_name": "triton.com.sqlitedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728802042803-vegsf1qqc0pe5fjt7b990vhbj20arg2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOOjafmuNwmSigvtmSfdyXkhNyCmDBhAs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
